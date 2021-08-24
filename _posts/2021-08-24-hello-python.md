@@ -27,5 +27,3 @@ class MyClass:
 ```
 
 Dunder methods are methods that start with double underscores. They are used to implement special functionality. For example, `__init__` is used to initialize the object. `__str__` is used to print the object.
-
-![flask browser image](../assets/hello-flask.png)

@@ -31,7 +31,7 @@ github_username: pySimplify
 instagram_username: pySimplify
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 # Exclude from processing.
